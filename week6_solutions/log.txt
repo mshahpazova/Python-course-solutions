@@ -1,0 +1,1 @@
+Function something_heavy execution time is 0:00:02.002071
